@@ -1,0 +1,80 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.first_row,
+.second_row,
+.third_row,
+.fourth_row,
+.fifth_row,
+.sixth_row,
+.seventh_row {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+}
+
+.first_row {
+  margin-left: 450px;
+}
+
+.second_row {
+  margin-left: 400px;
+}
+
+.third_row {
+  margin-left: 340px;
+}
+
+.fourth_row {
+  margin-left: 290px;
+}
+
+.fifth_row {
+  margin-left: 180px;
+}
+
+.sixth_row {
+  margin-left: 120px;
+}
+
+.seventh_row {
+  margin-left: 467px;
+}
+
+#one,
+#two,
+#three,
+#four,
+#five,
+#six,
+#seven,
+#eight,
+#nine,
+#ten,
+#eleven,
+#twelve,
+#thirteen,
+#fourteen,
+#fifteen,
+#sixteen,
+#seventeen,
+#eighteen,
+#nineteen,
+#twenty,
+#twenty-one,
+#twenty-two,
+#twenty-three,
+#twenty-four {
+  border: 3px solid red;
+  width: 100px;
+  height: 80px;
+  margin-bottom: 5px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
