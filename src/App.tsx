@@ -45,7 +45,6 @@ function App() {
         </section>
 
         <section className='seventh_row'>
- 
           <div id='twenty-four'> 24 </div>
         </section>
       </div>
