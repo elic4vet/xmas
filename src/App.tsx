@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div>
+      <div> 
         <section className='first_row'>
           <div id='one'> 1 </div>
         </section>
