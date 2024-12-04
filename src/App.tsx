@@ -53,7 +53,7 @@ function App() {
                   <img src={two} alt="two"></img>
                 </div>
                 <div className="flip-card-back">
-                  <p></p>
+                  <p> I am a team player</p>
                 </div>
               </div>
             </div>
@@ -65,7 +65,7 @@ function App() {
                   <img src={three} alt="two"></img>
                 </div>
                 <div className="flip-card-back">
-                  <p></p>
+                  <p> I don't test on production </p>
                 </div>
               </div>
             </div> 
@@ -79,7 +79,7 @@ function App() {
                   <img src={four} alt="two"></img>
                 </div>
                 <div className="flip-card-back">
-                  <p></p>
+                  <p> I am social</p>
                 </div>
               </div>
             </div> </div>
